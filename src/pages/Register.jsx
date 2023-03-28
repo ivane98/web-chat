@@ -18,7 +18,7 @@ const Register = () => {
     const email = e.target[1].value;
     const password = e.target[2].value;
     const file = e.target[3].files[0];
-    console.log(displayName);
+    // console.log(displayName);
 
     try {
       //Create user
